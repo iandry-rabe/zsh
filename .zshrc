@@ -36,6 +36,6 @@ antigen bundle colored-man-pages
 #antigen bundle rand-quote
 
 # theme
-antigen theme ys
+antigen theme sammy
 
 antigen apply
