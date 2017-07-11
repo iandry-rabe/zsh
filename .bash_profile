@@ -16,6 +16,7 @@ PATH=$PATH:/ep10/disks/SANB5/prog/bedtools-2.17.0/bin
 PATH=$PATH:/ep10/disks/SANB5/prog/
 PATH=$PATH:/ep10/disks/SANB5/prog/ncbi-blast-2.2.29/bin
 PATH=$PATH:/ep10/disks/SANB5/prog/fexsend/
+PATH=$PATH:$HOME/.dotfiles/antigen/antigen.zsh
 
 export PATH
 
@@ -38,3 +39,8 @@ export PERL5LIB
 TEXINPUTS=/ep10/disks/SANB5/prog/lib_tex/pgfplots//:/ep10/disks/SANB5/prog/lib_tex/texpackages
 
 export TEXINPUTS
+
+
+
+
+

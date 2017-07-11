@@ -1,7 +1,7 @@
 autoload antigen
 
 # Aliases
-source ~/.aliases
+#source ~/.aliases
 
 #Antigen
 source ~/.dotfiles/antigen/antigen.zsh 
@@ -14,8 +14,8 @@ antigen bundle arialdomartini/oh-my-git
 antigen bundle git
 
 antigen bundle zsh-users/zsh-syntax-highlighting
-antigen bundle zsh-users/zsh-autosuggestions
-antigen bundle zsh-users/zsh-completions
+#antigen bundle zsh-users/zsh-autosuggestions
+#antigen bundle zsh-users/zsh-completions
 
 # Explain how to install missing binary
 antigen bundle command-not-found
@@ -24,18 +24,18 @@ antigen bundle command-not-found
 antigen bundle colorize
 
 # cargo autocompletion
-antigen bundle cargo
+#antigen bundle cargo
 
 # Coloration of man pages
 antigen bundle colored-man-pages
 
 # Easy extract
-antigen bundle extract
+#antigen bundle extract
 
 # Random quote
-antigen bundle rand-quote
+#antigen bundle rand-quote
 
 # theme
-antigen theme robbyrussell
+antigen theme jreese
 
 antigen apply
