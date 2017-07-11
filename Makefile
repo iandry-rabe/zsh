@@ -3,8 +3,8 @@ all: pull source
 source:
  cp ~/.dotfiles/.bashrc ~/.bashrc
  cp ~/.dotfiles/.bash_profile ~/.bash_profile
- 
-pull:
+ cp ~/.dotfiles/.zshrc ~/.zshrc
+Pull:
  git pull
  
 antigen:
